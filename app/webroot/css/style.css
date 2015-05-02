@@ -1,0 +1,86 @@
+
+body{
+	background-color:#303138;
+}
+
+#questionImage{
+	border: 1px solid gray;
+	height: 158px;
+	width: 158px;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+	margin-top: 16px;
+}
+
+#questionAnswers{
+	margin-top:5px;
+	min-height:230px;
+	border-radius:5px;
+}
+
+
+#startGame{
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+#btn_nextQuestion{
+	display:none;
+}
+
+
+.center-block{
+	display:block;
+}
+
+#frame{
+	height: 230px;
+	width: 244px;
+}
+
+textarea {
+    resize: none;
+}
+
+#scoreBox{
+	text-align:center;
+}
+
+body .fb-like{
+	width:61px;
+}
+
+body .fb_iframe_widget{
+	display:block;
+}
+
+body .fb-send{
+	margin-top:4px;
+}
+
+body .pluginButtonContainer{
+	width:68px;
+}
+
+body .container{
+	width:1800px;
+}
+
+#myModal .modal-dialog{
+	left:0 !important;
+}
+
+#myModal .modal-content{
+	background-color: #008B8B;
+}
+
+#questionContainer{
+	min-height: 512px;
+}
+
+#btn_replay{
+	display:none;
+}
